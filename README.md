@@ -1,0 +1,2 @@
+# smallProjectByJava
+small project
