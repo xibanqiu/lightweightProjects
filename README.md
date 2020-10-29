@@ -1,2 +1,2 @@
-# smallProjectByJava
-small project
+# lightweightProject
+lightweigh project
